@@ -45,4 +45,4 @@ Assista à demonstração completa da simulação no YouTube:
 ---
 
 ## 👨‍💻 Integrantes do Grupo
-* Eduardo Kenzo Dantas Yosimoto - RMxxxxx
+* Eduardo Kenzo Dantas Yosimoto - RM575774
